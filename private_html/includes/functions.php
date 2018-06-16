@@ -1,6 +1,8 @@
 <?php
-/* Main functions of sgkey */
 
+/***
+ * 
+ */
 function getHardwarePrint() {
     $output = shell_exec ('hwinfo --short');
     // cpu + gpu+sound+network+disks+cdrom
