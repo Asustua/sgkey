@@ -8,3 +8,6 @@ Create database
     keys
     folders
     icons
+
+
+We shell use https://github.com/travist/jsencrypt/blob/master/README.md
